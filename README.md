@@ -1,4 +1,4 @@
-##Multiplayer Chess Application
+## Multiplayer Chess Application
 
 A multiplayer chess application meant to be used with peer-to-peer communication with graphics powered by javafx. to run use the following commands in the root directory:
 
